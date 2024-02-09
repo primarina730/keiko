@@ -1,0 +1,13 @@
+config.py
+__pycache__/
+
+Pipfile.lock
+Pipfile
+
+instance
+
+config.py
+
+db.sqlite3
+
+venv/
